@@ -27,4 +27,5 @@ Run the app here:
 
 ---
 
-Built by **Yumna Imam**, Information Security student at the University of South Florida and aspiring Security Engineer with a passion for healthcare innovation and AI.
+Built by **Yumna Imam**, Information Security student at the University of South Florida and aspiring Security Engineer with a passion for healthcare innovation and AI. This project was created during a healthcare-focused hackathon.
+Additional contributions: Jana Hassan, Ally Paloma, Sabria Alam.
